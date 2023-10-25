@@ -33,63 +33,7 @@
 				},
 				"dateAdded": "2021-10-26T00:00:00Z"
 			}
-		},
-
-		{
-			"longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
-			"releaseDate": "2020-01-17",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"feature"
-			],
-			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
-			"shortDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"title": "Voice Features",
-			"content": {
-				"duration": 77,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v5.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"rating": {
-					"rating": "G",
-					"ratingSource": "USA_PR"
-				},
-				"dateAdded": "2020-01-29T02:39:12Z"
-			}
 		}
-	],
-	"movies": [
-		{
-			"id": "dev-summit-21-platform-qa",
-			"title": "Platform updates Q&A",
-			"content": {
-				"dateAdded": "2021-10-16T00:00:00Z",
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/dev-summit-platform-qa.mp4",
-					"quality": "HD"
-				}],
-				"duration": 456,
-				"language": "en-us"
-			},
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/platform-update-qa-V2.jpg",
-			"shortDescription": "The Roku team answers questions about the platform updates announced during the keynote.",
-			"releaseDate": "2021-10-16",
-			"longDescription": "The Roku team answers questions about the release of the Independent Developer Kit (IDK) and  beta channel feature and the sunsetting of non-certified channels, which were all announced during the keynote address.",
-			"tags": [
-				"dev-summit-21"
-			],
-			"genres": [
-				"educational"
-			]
-		}
-
 	],
 	"playlists": [{
 		"name": "rsg_category_row",
